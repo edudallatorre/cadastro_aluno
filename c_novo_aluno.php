@@ -30,31 +30,31 @@ session_start();
                 <div class="col-xs-6">
                     <div class="form-group">
                         <label>Nome:</label>
-                        <input type="text" name="nome" class="form-control" placeholder="Digite Aqui..." autocomplete="off" required/>    
+                        <input type="text" name="nome" class="form-control" placeholder="Digite Aqui..." required/>    
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="form-group">
                         <label>Email:</label>
-                        <input type="email" name="email" class="form-control" placeholder="Digite Aqui..." autocomplete="off" required/>
+                        <input type="email" name="email" class="form-control" placeholder="Digite Aqui..." required/>
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="form-group">
                         <label>Endereço:</label>
-                        <input type="text" name="endereco" class="form-control" placeholder="Digite Aqui..." autocomplete="off" required/>
+                        <input type="text" name="endereco" class="form-control" placeholder="Digite Aqui..." required/>
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="form-group">
                         <label>Cidade:</label>
-                        <input type="text" name="cidade" class="form-control" placeholder="Digite Aqui..." autocomplete="off" required/>
+                        <input type="text" name="cidade" class="form-control" placeholder="Digite Aqui..." required/>
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="form-group">
                         <label>UF:</label>
-                        <input type="text" name="uf" class="form-control" placeholder="Digite Aqui..." autocomplete="off" required/>
+                        <input type="text" name="uf" class="form-control" placeholder="Digite Aqui..." required/>
                     </div>
                 </div>
                 <div class="col-xs-12">
